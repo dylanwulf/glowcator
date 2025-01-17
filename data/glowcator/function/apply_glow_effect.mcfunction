@@ -4,3 +4,5 @@ execute if data entity @s { active_effects: [{ id: "minecraft:glowing" }] } run 
 
 # Give the player the glowing effect with no time limit and particles hidden.
 effect give @s minecraft:glowing infinite 0 true
+
+tellraw @s { "text": "haha made u glow", "color": "gold", "italic": true }
