@@ -2,3 +2,8 @@ scoreboard objectives remove find_players
 scoreboard objectives remove glowcator_x
 scoreboard objectives remove glowcator_y
 scoreboard objectives remove glowcator_z
+scoreboard objectives remove find_ender_chest
+scoreboard objectives remove glowcator_ender_chests_placed
+scoreboard objectives remove glowcator_ender_chest_x
+scoreboard objectives remove glowcator_ender_chest_y
+scoreboard objectives remove glowcator_ender_chest_z
